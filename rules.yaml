@@ -1,0 +1,26 @@
+brute_force:
+  threshold: 10
+  window_minutes: 5
+
+off_hours:
+  start: 18   # 6pm — off-hours begins
+  end: 8      # 8am — off-hours ends
+
+flag_commands:
+  - sudo su
+  - /bin/bash
+  - /bin/sh
+  - useradd
+  - userdel
+  - passwd
+  - chmod 777
+  - chown root
+  - visudo
+  - vim /etc/passwd
+  - vim /etc/shadow
+  - cat /etc/shadow
+  - nc -
+  - ncat
+  - python -c
+  - python3 -c
+  - bash -i

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+  <!-- Failed logins (EventID 4625) — brute force from 203.0.113.5 -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:16:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:16:15.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:16:30.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:16:45.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">admin</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:17:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:17:15.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:17:30.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:17:45.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:18:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:18:15.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:18:30.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="IpAddress">203.0.113.5</Data>
+      <Data Name="LogonType">3</Data>
+      <Data Name="FailureReason">Unknown user name or bad password</Data>
+    </EventData>
+  </Event>
+  <!-- Successful off-hours login (EventID 4624) -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-05-26T02:45:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">jsmith</Data>
+      <Data Name="IpAddress">198.51.100.42</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <!-- Normal business-hours login -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4624</EventID>
+      <TimeCreated SystemTime="2026-05-26T09:00:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">alice</Data>
+      <Data Name="IpAddress">10.0.0.5</Data>
+      <Data Name="LogonType">3</Data>
+    </EventData>
+  </Event>
+  <!-- New user account created (EventID 4720) -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4720</EventID>
+      <TimeCreated SystemTime="2026-05-26T10:05:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">mallory</Data>
+      <Data Name="SubjectUserName">alice</Data>
+    </EventData>
+  </Event>
+  <!-- User deleted (EventID 4726) -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4726</EventID>
+      <TimeCreated SystemTime="2026-05-26T16:45:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">tempuser</Data>
+      <Data Name="SubjectUserName">alice</Data>
+    </EventData>
+  </Event>
+  <!-- Explicit credential use / lateral movement (EventID 4648) -->
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>4648</EventID>
+      <TimeCreated SystemTime="2026-05-26T16:00:00.000000000Z"/>
+      <Computer>WINSERVER01</Computer>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Administrator</Data>
+      <Data Name="SubjectUserName">alice</Data>
+      <Data Name="IpAddress">10.0.0.5</Data>
+    </EventData>
+  </Event>
+</Events>
