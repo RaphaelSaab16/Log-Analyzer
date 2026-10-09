@@ -1,6 +1,6 @@
 # Log Analyzer / Mini SIEM
 
-A Python-based log analysis tool that parses system and auth logs, detects anomalies, and flags suspicious activity — suitable as a portfolio piece for Security+, CEH, or SOC analyst roles.
+A Python-based log analysis tool that parses system and auth logs, detects anomalies, and flags suspicious activity
 
 ## Features
 
